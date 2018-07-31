@@ -1,11 +1,12 @@
-# Supreme Court rejects Trump bid to halt climate change case
+# Supreme Court rejects Trump bid(出价,投标) to halt climate change case
 
 Lawrence Hurley
 
 
 WASHINGTON (Reuters) - The U.S. Supreme Court on Monday rejected a bid by President
-Donald Trump’s administration to put the brakes on a lawsuit filed by young activists
-who have accused the U.S. government of ignoring the perils of climate change.
+Donald Trump’s administration to put the brakes on a lawsuit(诉讼, 官司, 狱, 讼事)
+filed(提交) by young activists who have accused the U.S. government of ignoring the
+perils(冒险) of climate change.
 
 In the lawsuit, 21 activists, ages 11 to 22, said federal officials violated their rights
 to due process under the U.S. Constitution by failing to adequately address carbon
@@ -16,7 +17,8 @@ in a federal court in Oregon. In a 2016 ruling, a judge allowed the case to proc
 the government to appeal. The Trump administration, inheriting the case, had asked for the
 lawsuit to be thrown out or put on hold.
 
-The brief unsigned order said the Trump administration’s request was premature. The court
+The brief unsigned order said the Trump administration’s request was premature(未成熟的；
+过早的；提前的；早产的, 早产的婴儿；过早爆发的炮弹；过早发生的事物 ). The court
 did, however, note that the claims made in the ambitious lawsuit are “striking” and the
 question of whether they can be considered by a jury “presents substantial grounds for
 difference of opinion.”
